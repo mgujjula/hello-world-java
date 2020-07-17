@@ -43,5 +43,7 @@ public class HelloWorld {
     System.out.println("Hello, Testing Poll SCM ");
     System.out.println("Hello, Testing Poll SCM ");
     System.out.println("Hello, Devops World");
+    System.out.println("Hello, Devops World");
+    System.out.println("Hello, Devops World");
   }
 }
