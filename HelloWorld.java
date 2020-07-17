@@ -39,7 +39,7 @@ public class HelloWorld {
     System.out.println("Hello, Madhava");
     System.out.println("Hello, Testing git intergration Madhava");
     System.out.println("Hello, Devops World");
-    System.out.println("Hello githook Testing ");
+    System.out.println("Hello githook Testing automation ");
     System.out.println("Hello,Testing  for githook AutomAtion ");
   }
 }
